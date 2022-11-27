@@ -5,6 +5,7 @@ date: 2022-11-27 14:09
 image: /assets/images/initial_commit.jpg
 headerImage: false
 tag:
+- update
 category: blog
 author: mreliptik
 hidden: false # don't count this post in blog pagination
