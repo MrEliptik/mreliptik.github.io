@@ -8,7 +8,7 @@ tag:
 - update
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: First post on this shiny new site
 ---
 
