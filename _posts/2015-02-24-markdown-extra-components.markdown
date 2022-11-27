@@ -5,9 +5,6 @@ date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
 category: blog
 author: jamesfoster
 hidden: true # don't count this post in blog pagination
