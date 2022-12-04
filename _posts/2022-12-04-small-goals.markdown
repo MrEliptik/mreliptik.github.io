@@ -2,8 +2,8 @@
 title: "The benefits of small goals"
 layout: post
 date: 2022-12-04 08:00
-image: /assets/images/initial_commit.jpg
-headerImage: false
+image: /assets/images/small_goals.jpg
+headerImage: true
 tag:
 - productivity
 category: blog
