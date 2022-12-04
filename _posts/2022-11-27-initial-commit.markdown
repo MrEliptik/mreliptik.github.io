@@ -3,7 +3,7 @@ title: "Initial commit: Hello world!"
 layout: post
 date: 2022-11-27 14:09
 image: /assets/images/initial_commit.jpg
-headerImage: false
+headerImage: true
 tag:
 - update
 category: blog
