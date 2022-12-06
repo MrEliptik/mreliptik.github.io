@@ -33,10 +33,11 @@ Small games allow you to focus on a cool concept. You don’t have much time to 
 
 To come back to financial aspect, in the case of Dashpong, I would need to make 29208€ before Steam and taxes cut, to generate the minimal French income for one year of work. And Dashpong took longer that one year, so the real number is higher. Here's the full calculation:
 
-$1329*12=15948$
+1329*12=15948$
 
-$15948 = (x*0.7)*0.78$
-$x = 29208.8$
+15948 = (x\*0.7)\*0.78
+
+x = 29208.8$
 
 *Note that the minimal salary in france is around 1300€ after taxes. And this is without taking into account the expanses for the game such as capsules art and music.*
 
