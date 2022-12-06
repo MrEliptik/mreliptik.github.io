@@ -9,7 +9,7 @@ tag:
 - business
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: Let's talk about the mistakes I've made with my first game Dashpong
 ---
 
@@ -107,6 +107,6 @@ By having a clearer idea of what I wanted I would have needed less time to finis
 
 If you think I’m too harsh on the game, that’s the point of the video, being critical. If you’re doing gamedev for fun, you don’t have to be too harsh, but I’m trying to make a living out of it, so I have to be critical. This doesn’t mean I don’t like the game and I’m not proud of it, more that I know what are the flaws and I want to do better next time. I also think that showing you how I critique my game can be helpful for you. No matter what you do, if you want to be better at it, you have to be critical. It’s immensely helpful to cultivate that skill. Being able to take distance from your work, understanding that what you create is not you, and that you can critique it without attacking who you are is fundamental to progress. 
 
-If you made mistakes during your game’s development, share them with me in the comments below, byyyye
+If you made mistakes during your game’s development, share them with me in the comments below, byyyye ;)
 
 <iframe src="https://store.steampowered.com/widget/1729250/" frameborder="0" width="500" height="190"></iframe>
