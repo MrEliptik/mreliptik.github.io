@@ -1,0 +1,72 @@
+---
+title: "Bigger goals"
+layout: post
+date: 2022-12-31 08:00
+image: /assets/images/bigger_goals.jpg
+headerImage: true
+tag:
+- productivity
+category: blog
+author: mreliptik
+hidden: true # don't count this post in blog pagination
+description: Let's talk about goals, but this time, the bigger ones.
+---
+
+In an earlier post I talked about the [benefits of small goals](https://mreliptik.github.io/small-goals/), so logically today I want to talk about big, or at least bigger goals. I will not talk about making your goals bigger, but why having big goals is important.
+
+### What are big goals?
+
+In my post about small goals I took the example of walking and I showed you that it was much more interesting for me to reduce the goal to be able to reach it, but also to feel motivated. I believe that big goals help in the same way, but on a longer timescale. A big goal is not reachable easily. It requires lots of regular work, for weeks to months usually.
+
+Small goals are here to force us to take action every day, where as big goals are guiding us towards something we truly care about. You can see them as giving meaning to your smaller goals. Sometimes small goals give you immediate feedback and reward. Going for a walk can clear your head and because it makes your body move gently, you’ll probably feel good after it. But if it’s night and cold outside, it probably won’t be that pleasing. If the small goal is not inscribed in something bigger, it’s very tempting to not do it. When you think about it, it’s so small that it doesn’t really matter. When you start thinking like this, you’re on slippery slope where meaning can easily be lost. That’s why you have bigger goals, always reminding you why you’re doing something. Of course, it still requires that you project yourself in the future. For that, you have to truly believe that your goal is achievable and this is my next point.
+
+### Big goals should be achievable
+
+Big goals are not “dreams”, simply because dreams are often not achievable or at least very hard to achieve. Also, I don’t really like the idea of dreams, but I’ll talk about that in another blog post. You understand it’s crucial for your big dreams to feel achievable, otherwise they lose their purpose which is giving meaning to your everyday efforts.
+
+Setting big goals correctly is probably where the difficulty lies. It’s easy to think about stuff we should or want to achieve. Thinking about goals we truly care about and that we are capable of turning into reality is a true challenge and can be deeper work than you imagined. For that, you have to know yourself and know what you want to achieve. Then you need to understand how much work is required to achieve that goal. If we take my experience as an example. I knew I wanted to release my first commercial game. It was really important for me to create a full game from an idea to a finished product. I needed that to know that I was capable of doing gamedev. That was the first step for me to dive into a gamedev carrier. In that sense, my goal was clear and achievable. The timescale in which I wanted to achieve it though wasn’t really clear. I changed it many times and often it was not realistic. I was thinking about a theoretical time in which I would be capable of finishing the game, not how much time it would actually take. The reality was that I was not solely focusing on the game. I was doing freelance, YouTube and most importantly, I was still learning. When working on Dashpong, everything was new, I was constantly learning. Learning takes time and energy. This meant I was not 100% efficient and I was making mistakes, losing time, etc…
+
+I digress, but I think you get the idea. Setting goals is really challenging and I believe it’s fine to update them. A lot can change in one year and your goals can and should evolve. Hopefully, they will probably be close that what you originally thought, but even if it’s not the case, it’s fine.
+
+To take an opposite example, I think we often hear people saying they want to be fit, or play an instrument. These two things are desirable but often much harder to get than what people imagine. If you set the goal of learning an instrument in one year, you have to dissect what it means. Are you ready to practice multiple times per week? Do you think you’re capable of being serious about it for a whole year? If you don’t have much free time now, what are you going to cut off to be able to fit practice time? Those are some of the questions that you should ask yourself when evaluating a big goal. Of course, you not only need to ask, but to answer.
+
+I think that this crucial step is what most people don’t do when they think about a new goal. That’s why so many new year’s resolutions don’t stick for more than a few days or weeks.
+
+### Progressive overload
+
+I’m writing this just before the new year, and that’s not a coincidence. I was thinking of were I wanted to go, and I like to take the new year as an “excuse” to reassess what I want to achieve. One thing that I’m always doing is thinking too big. Or at least, too big at a time.
+
+I believe the best way to stick to be goals is to take it slow. If in the next year, you want to learn music, get fit, read 52 books, be financially stable, release 4 games and grow your YT channel to 100K. You’re probably on the right path to fail all of these things. I don’t know what is the limit, and it surely depends on lots of factors. So it’s up to you again to know what you are capable of. This is very important when setting a big goal, to understand the circumstances in which you’ll work.
+
+Taking it slow maybe isn’t sexy, but it’s the best way to stick to something. People usually rush into new habits and that’s why most of the new year’s resolutions don’t work. If you’ve never worked out in your life, don’t start going to the gym 5x per week. You’ll burn out on day 2, and you’ll never step in a gym again.
+
+![progressive overload][progressive_overload]
+
+Adjust your small goals to be ridiculously small in the beginning, and make them bigger as you go. There’s a nice concept that you find in the gym, called “progressive overload”. It’s the idea that every time you train (or at least as often as possible), you should progressively add more load. Load can be more weight, sets, repetitions or reduced rest time. I like to make this analogy because I think you can directly apply it to your life the pursuit of your goals. The idea of progressive overload at the gym makes total sense. If you start too hard, you hurt yourself, it’s a simple as that. While it may be less direct when working towards your goals, in the end, you’ll hurt your progress towards your goals.
+
+### Why do you care about goals?
+
+To finish this post, I want to quickly discuss the idea itself of having goals. For some people, having goals is not necessary. They live their life just like that, going with the flow. If it suits you, please continue! If you want to achieve particular things in life, because you think they’ll have a great impact on society or on you, then you might want to do things differently.
+
+My vision is that goals are just a way to steer your life towards what you really care. It’s not about “being a millionaire before 30” or “having a million in the bank”. The goal is not to flex or to reach an arbitrary number of whatever, but to live a life you’re happy to live.
+
+Goals are just another tool to help you to get through life. They help you to work towards important things for you. They’re not rigid things, but indicators that can evolve. If you don’t reach them, it’s not the end of the world. You can use this time as an opportunity to re-assess them.
+
+I know some people think it’s not worth it because in the end, we’re all going to die. I see it the opposite way. Because my time is limited, I might as well make the most of it.
+
+### Summary
+
+![Too long didnt read][too_long_didnt_read]
+
+Let’s face it, there’s a lot of words and you don’t have time for that. Let me break it down for you:
+
+- Big goals give you direction and meaning to the smaller goals
+- They should be achievable and for that, you really need to take the time to think about them, how you’re going to tackle them and if you’re ready or not for the commitment
+- You don’t go from nothing to everything. You start slow and build up progressively. I made the analogy with the progressive overload concept seen in the gym
+- In the end, goals are here to serve you, not the other way around. Live the life you want to live.
+
+That's it for me, byyye ;)
+
+
+[progressive_overload]: /assets/images/progressive_overload.jpg
+[too_long_didnt_read]: https://media.tenor.com/Lv-DF9iv7Q8AAAAd/christopher-walken-too-long-didnt-read.gif
