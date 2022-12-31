@@ -8,7 +8,7 @@ tag:
 - productivity
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: Let's talk about goals, but this time, the bigger ones.
 ---
 
@@ -16,19 +16,27 @@ In an earlier post I talked about the [benefits of small goals](https://mrelipti
 
 ### What are big goals?
 
-In my post about small goals I took the example of walking and I showed you that it was much more interesting for me to reduce the goal to be able to reach it, but also to feel motivated. I believe that big goals help in the same way, but on a longer timescale. A big goal is not reachable easily. It requires lots of regular work, for weeks to months usually.
+In my post about small goals I took the example of walking and I showed you that it was much more interesting for me to reduce the goal to be able to reach it, but also to feel motivated. I believe that big goals help in the same way, but on a longer timescale. A big goal is not reachable easily. It requires lots of regular work, from weeks to months usually.
 
-Small goals are here to force us to take action every day, where as big goals are guiding us towards something we truly care about. You can see them as giving meaning to your smaller goals. Sometimes small goals give you immediate feedback and reward. Going for a walk can clear your head and because it makes your body move gently, you’ll probably feel good after it. But if it’s night and cold outside, it probably won’t be that pleasing. If the small goal is not inscribed in something bigger, it’s very tempting to not do it. When you think about it, it’s so small that it doesn’t really matter. When you start thinking like this, you’re on slippery slope where meaning can easily be lost. That’s why you have bigger goals, always reminding you why you’re doing something. Of course, it still requires that you project yourself in the future. For that, you have to truly believe that your goal is achievable and this is my next point.
+Small goals are here to force us to take action every day, where as big goals are guiding us towards something we truly care about. You can see them as giving meaning to your smaller goals. Sometimes small goals give you immediate feedback and reward. Going for a walk can clear your head and because it makes your body move gently, you’ll probably feel good after it. But if it’s night and cold outside, it probably won’t be that pleasing.
+
+If the small goal is not inscribed in something bigger, it’s very tempting to not do it. When you think about it, it’s so small that it doesn’t really matter. When you start thinking like this, you’re on slippery slope where meaning can easily be lost.
+
+That’s why you have bigger goals, always reminding you why you’re doing something. Of course, it still requires that you project yourself in the future. For that, you have to truly believe that your goal is achievable and this is my next point.
 
 ### Big goals should be achievable
 
 Big goals are not “dreams”, simply because dreams are often not achievable or at least very hard to achieve. Also, I don’t really like the idea of dreams, but I’ll talk about that in another blog post. You understand it’s crucial for your big dreams to feel achievable, otherwise they lose their purpose which is giving meaning to your everyday efforts.
 
-Setting big goals correctly is probably where the difficulty lies. It’s easy to think about stuff we should or want to achieve. Thinking about goals we truly care about and that we are capable of turning into reality is a true challenge and can be deeper work than you imagined. For that, you have to know yourself and know what you want to achieve. Then you need to understand how much work is required to achieve that goal. If we take my experience as an example. I knew I wanted to release my first commercial game. It was really important for me to create a full game from an idea to a finished product. I needed that to know that I was capable of doing gamedev. That was the first step for me to dive into a gamedev carrier. In that sense, my goal was clear and achievable. The timescale in which I wanted to achieve it though wasn’t really clear. I changed it many times and often it was not realistic. I was thinking about a theoretical time in which I would be capable of finishing the game, not how much time it would actually take. The reality was that I was not solely focusing on the game. I was doing freelance, YouTube and most importantly, I was still learning. When working on Dashpong, everything was new, I was constantly learning. Learning takes time and energy. This meant I was not 100% efficient and I was making mistakes, losing time, etc…
+Setting big goals correctly is probably where the difficulty lies. It’s easy to think about stuff we should or want to achieve. Thinking about goals we truly care about and that we are capable of turning into reality is a true challenge and can be deeper work than you imagined. For that, you have to know yourself and know what you want to achieve. Then you need to understand how much work is required to achieve that goal. If we take my experience as an example.
 
-I digress, but I think you get the idea. Setting goals is really challenging and I believe it’s fine to update them. A lot can change in one year and your goals can and should evolve. Hopefully, they will probably be close that what you originally thought, but even if it’s not the case, it’s fine.
+I knew I wanted to release my first commercial game. It was really important for me to create a full game from an idea to a finished product. I needed that to know that I was capable of doing gamedev. That was the first step for me to dive into a gamedev carrier. In that sense, my goal was clear and achievable. The timescale in which I wanted to achieve it though wasn’t really clear. I changed it many times and often it was not realistic. I was thinking about a theoretical time in which I would be capable of finishing the game, not how much time it would actually take. The reality was that I was not solely focusing on the game. I was doing freelance, YouTube and most importantly, I was still learning. When working on Dashpong, everything was new, I was constantly learning. Learning takes time and energy. This meant I was not 100% efficient and I was making mistakes, losing time, etc…
 
-To take an opposite example, I think we often hear people saying they want to be fit, or play an instrument. These two things are desirable but often much harder to get than what people imagine. If you set the goal of learning an instrument in one year, you have to dissect what it means. Are you ready to practice multiple times per week? Do you think you’re capable of being serious about it for a whole year? If you don’t have much free time now, what are you going to cut off to be able to fit practice time? Those are some of the questions that you should ask yourself when evaluating a big goal. Of course, you not only need to ask, but to answer.
+I digress, but I think you get the idea. Setting goals is really challenging and I believe it’s fine to update them. A lot can change in one year and your goals can, and should evolve. Hopefully, they will probably be close that what you originally thought, but even if it’s not the case, it’s fine.
+
+![dreaming][dreaming]
+
+To take an opposite example, I think we often hear people saying they want to be fit, or play an instrument. These two things are desirable but often much harder to get than what people imagine. If you set the goal of learning an instrument in one year, you have to dissect what it means. Are you ready to practice multiple times per week? Do you think you’re capable of being serious about it for a whole year? If you don’t have much free time now, what are you going to cut off to be able to allow for practice time? Those are some of the questions that you should ask yourself when evaluating a big goal. You need to take the time to answer those questions and come up with clear actions.
 
 I think that this crucial step is what most people don’t do when they think about a new goal. That’s why so many new year’s resolutions don’t stick for more than a few days or weeks.
 
@@ -36,13 +44,14 @@ I think that this crucial step is what most people don’t do when they think ab
 
 I’m writing this just before the new year, and that’s not a coincidence. I was thinking of were I wanted to go, and I like to take the new year as an “excuse” to reassess what I want to achieve. One thing that I’m always doing is thinking too big. Or at least, too big at a time.
 
-I believe the best way to stick to be goals is to take it slow. If in the next year, you want to learn music, get fit, read 52 books, be financially stable, release 4 games and grow your YT channel to 100K. You’re probably on the right path to fail all of these things. I don’t know what is the limit, and it surely depends on lots of factors. So it’s up to you again to know what you are capable of. This is very important when setting a big goal, to understand the circumstances in which you’ll work.
+I believe the best way to stick to be goals is to take it slow. If in the next year, you want to learn music, get fit, read 52 books, be financially stable, release 4 games and grow your YT channel to 100K. You’re probably on the right path to fail all of these things. I don’t know what is the limit, and it surely depends on lots of factors. It’s up to you, again, to know what you are capable of. It's very important, when setting a big goal, to understand the circumstances in which you’ll work towards it.
 
-Taking it slow maybe isn’t sexy, but it’s the best way to stick to something. People usually rush into new habits and that’s why most of the new year’s resolutions don’t work. If you’ve never worked out in your life, don’t start going to the gym 5x per week. You’ll burn out on day 2, and you’ll never step in a gym again.
+<span class="evidence">Taking it slow isn’t sexy, but it’s the best way to stick to something.</span>
+People usually rush into new habits and that’s why most of the new year’s resolutions don’t work. If you’ve never worked out in your life, don’t start going to the gym 5x per week. You’ll burn out on day 2, and you’ll never step in a gym again. Maybe that's what you really wanted in the end? Think about it...
 
 ![progressive overload][progressive_overload]
 
-Adjust your small goals to be ridiculously small in the beginning, and make them bigger as you go. There’s a nice concept that you find in the gym, called “progressive overload”. It’s the idea that every time you train (or at least as often as possible), you should progressively add more load. Load can be more weight, sets, repetitions or reduced rest time. I like to make this analogy because I think you can directly apply it to your life the pursuit of your goals. The idea of progressive overload at the gym makes total sense. If you start too hard, you hurt yourself, it’s a simple as that. While it may be less direct when working towards your goals, in the end, you’ll hurt your progress towards your goals.
+Adjust your small goals to be ridiculously small in the beginning, and make them bigger as you go. There’s a nice concept that you find in the gym, called “progressive overload”. It’s the idea that every time you train (or at least as often as possible), you should progressively add more load. Load can be more weight, sets, repetitions or reduced rest time. I like to make this analogy because I think you can directly apply it to your life and the pursuit of your goals. The idea of progressive overload in the gym makes total sense. If you start too hard, you hurt yourself, it’s as simple as that. While it may be less direct when working towards your goals, in the end, you’ll hurt your progress towards your goals.
 
 ### Why do you care about goals?
 
@@ -69,4 +78,5 @@ That's it for me, byyye ;)
 
 
 [progressive_overload]: /assets/images/progressive_overload.jpg
+[dreaming]: https://s3.amazonaws.com/ellevate-app-uploads-production/blog_posts/6232/featured_image/large/ThinkstockPhotos-478619105.jpg?1431441411
 [too_long_didnt_read]: https://media.tenor.com/Lv-DF9iv7Q8AAAAd/christopher-walken-too-long-didnt-read.gif
