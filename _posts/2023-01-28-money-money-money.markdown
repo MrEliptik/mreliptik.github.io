@@ -9,7 +9,7 @@ tag:
 - business
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: Let's talk about money! My 2022 revenue.
 ---
 
@@ -17,7 +17,7 @@ In this blogpost, I want to be fully transparent with you and talk about money!
 
 As a full time indie gamedev, it’s been very useful to me to see how other devs were making money. This is my way of “giving back” by sharing what I’ve earned and talk briefly about the future.
 
-If you’ve seen my ![YouTube video about 1 year of gamedev](yt_1_year_gamedev) I already talked about how much money I made, but it was before the release of the game. This post has two goals:
+If you’ve seen my ![YouTube video about 1 year of gamedev][yt_1_year_gamedev] I already talked about how much money I made, but it was before the release of the game. This post has two goals:
 
 - Having the updated numbers for 2022
 - Putting the numbers on text for easier access to me and everyone else
@@ -45,7 +45,7 @@ In 2022, I was not planning on making money. The main goal was releasing my firs
 
 ### What’s up for 2023?
 
-In 2023, one of my biggest goal is to make more money! How much? It’s hard to tell. I would like to make enough to be able to survive on my own. I don’t have a precise number, but it would probably be around 1000€ per month. Going from 296 to 1000€ means 704€ more per month, which is a 237% increase.. Ok, all of that is cool, but how do I think I’m going to reach this?
+In 2023, one of my biggest goal is to make more money! How much? It’s hard to tell. I would like to make enough to be able to survive on my own. I don’t have a precise number, but it would probably be around 1000€ per month. Going from 296€ to 1000€ means 704€ more per month, which is a 237% increase.. Ok, all of that is cool, but how do I think I’m going to reach this?
 
 Well, I’ve got 4 ways of doing that, and I”ll cite them in order of importance.
 
@@ -74,4 +74,4 @@ I hope to bring this number up in 2023, and I’ll see you next year to see wher
 
 Byyye ;)
 
-[yt_1_year_gamedev][[https://youtu.be/YL3EO-CeZmY](https://youtu.be/YL3EO-CeZmY)]
+[yt_1_year_gamedev]: https://youtu.be/YL3EO-CeZmY
