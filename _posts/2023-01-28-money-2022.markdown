@@ -1,7 +1,7 @@
 ---
 title: "Money, money, money (2022 review)"
 layout: post
-date: 2022-01-28 08:00
+date: 2023-01-28 08:00
 image: /assets/images/money_2022.jpg
 headerImage: true
 tag:
