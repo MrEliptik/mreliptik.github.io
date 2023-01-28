@@ -1,0 +1,77 @@
+---
+title: "Money, money, money (2022 review)"
+layout: post
+date: 2022-01-28 08:00
+image: /assets/images/money_2022.jpg
+headerImage: true
+tag:
+- productivity
+- business
+category: blog
+author: mreliptik
+hidden: true # don't count this post in blog pagination
+description: Let's talk about money! My 2022 revenue.
+---
+
+In this blogpost, I want to be fully transparent with you and talk about money!
+
+As a full time indie gamedev, it’s been very useful to me to see how other devs were making money. This is my way of “giving back” by sharing what I’ve earned and talk briefly about the future.
+
+If you’ve seen my ![YouTube video about 1 year of gamedev](yt_1_year_gamedev) I already talked about how much money I made, but it was before the release of the game. This post has two goals:
+
+- Having the updated numbers for 2022
+- Putting the numbers on text for easier access to me and everyone else
+
+### Numbers
+
+Let’s cut straight to the points, here are the numbers for 2022, so january 1st 2022 to december 31st 2022
+
+- Youtube: 3095.81€
+    - Ads: 2443.44€
+    - Sponsor: 652.37€
+- Dashpong:1203,25€
+    - Steam: 1143.59€
+    - Itch.io: 59.66€
+- Ko-fi donations: 139€
+- Twitch: 66.49€
+- Game jams prize: 38€
+- [Itch.io](http://Itch.io) (donations, assets, etc…): 19.75€
+
+This bring the total to **4562,3€ gross**. After removing the tax cut of 22%, I’ve made **3558,59€**.
+
+As you can see, this is clearly not enough to survive for a whole year in France. If you divide by 12, it’s roughly 296€ per month. I said I wanted to be fully transparent, and I’ve talked about it in the video I mentioned in the intro: I’m able to live like this because the state gives me a bit of money and because I don’t have to pay rent as I live with my mom. The indie dream suddenly sounds less amazing!
+
+In 2022, I was not planning on making money. The main goal was releasing my first commercial game and I knew it wouldn’t bring a lot. To be completely honest though, I was maybe expecting a bit more. I was also expecting to release on some consoles. But this is not the point right now, I’ll talk about it in more details in a post mortem later this year.
+
+### What’s up for 2023?
+
+In 2023, one of my biggest goal is to make more money! How much? It’s hard to tell. I would like to make enough to be able to survive on my own. I don’t have a precise number, but it would probably be around 1000€ per month. Going from 296 to 1000€ means 704€ more per month, which is a 237% increase.. Ok, all of that is cool, but how do I think I’m going to reach this?
+
+Well, I’ve got 4 ways of doing that, and I”ll cite them in order of importance.
+
+- Make more games
+- Courses
+- YouTube (ads & sponsor)
+- Freelance
+
+This year, I want to release more games. I don’t know how many, but 2 at least! The goal is to make better games with short dev time. I believe this is THE way for me as an indie. I’d love games to be my main source of income. You’ve seen from the numbers that right now it’s youtube, but I hope this will change.
+
+The second thing is courses. I’m working on my first course at the moment, and I’m hoping this can bring some money over the year. I think aiming for 2 courses this year is reasonable.
+
+YouTube was my primary source of revenue in 2022, which was unexpected to be honest. I’ll continue making videos throughout the year, and I hope to grow of course. I’m also aiming for more sponsors or at least better paid. Making videos is not just a way to make money for me. It’s something I really enjoy and that can be really valuable in terms of exposure and opportunities as an indie dev. I’ve been contacted twice to work on projects as a dev thanks to YouTube. I’ve refused,  because I was focusing on Dashpong at the time.
+
+I’m not going to actively seek freelance work, but be more open. Not because I want to do freelance, but because this is a very straight forward way of making money. If you’re interested and want to work with me, contact me at victormeunier.dev@gmail.com ;)
+
+I didn’t include other sources because I’m still unsure if I want to develop them, but I can talk about them quickly here. Twitch pays really poorly when you’re a small streamer. Even though I want to stream more regularly, I’m not counting this as a main source of revenue.
+
+Donations counted for 139€ on Kofi this year, which is not nothing. Thanks a lot guys for your donations, I’m truly blessed! I would like to develop this more in the future, maybe by creating a Patreon. I need to think about it more though, as I want to find a way to make it interesting for people. I’ve thought of giving early access to videos, giving 1 on 1 calls, giving access to some of my source code which is not open source and even giving you keys for my games when they release. I need to figure this out before doing anything. If you have ideas or want to share your experience as a donor or a creator, please share with us in the comments!
+
+Of course, Dashpong will continue to sale. It might not be a lot, but with every game I’ll release, the more “passive” money will be made. I’m not crossing out completely the idea of bringing Dashpong to console too. It’s just that it’s not my #1 priority.
+
+And that’s it! I think this covers everything related to money. As you can see, we’re not talking about huge amounts here. My strategy is to diversify to reach a stable income which would allow me to survive on my own.
+
+I hope to bring this number up in 2023, and I’ll see you next year to see where I’m at!
+
+Byyye ;)
+
+[yt_1_year_gamedev][[https://youtu.be/YL3EO-CeZmY](https://youtu.be/YL3EO-CeZmY)]
