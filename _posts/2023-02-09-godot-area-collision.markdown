@@ -1,26 +1,26 @@
 ---
 title: "Get collision points of Areas in Godot"
 layout: post
-date: 2023-02-09 08:00
+date: 2023-02-12 08:00
 image: /assets/images/godot_area_collision/godot_area_collision.jpg
 headerImage: true
 tag:
 - gamedev
 - godot
-- godot_3
+- godot 3
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: Let me show you how to get the collision points between two Areas (2D and 3D)
 ---
 
-In this blogpost, I'll show you how to get the collision points between two Areas (2D and 3D) in Godot 3.X. I'm specifying Godot 3 because it might be easier in 4, I don't know. 
+In this blogpost, I'll show you how to get the collision points between two Areas (2D and 3D) in Godot 3.X. I'm specifying Godot 3 because it might be easier in 4, I don't know.
 
 First, I'll tell you why I wanted to do that. If you don't care, you can directly go to [The solution](#the-solution).
 
 ### The problem
 
-In VR, you have to put your UI somewhere in the 3D world and you use an Area to interact with it, usually using a raycast. The raycast gives you the collision point so you can create a fake mouse event on the Control nodes of your UI. If you want to be able to "touch" the UI with your finger when using hand tracking, using a raycast doesn't work well. So instead, I attached an area to the fingertip. The only problem with this solution is that we have no way of knowing were exactly we collided with the UI's area. 
+In VR, you have to put your UI somewhere in the 3D world and you use an Area to interact with it, usually using a raycast. The raycast gives you the collision point so you can create a fake mouse event on the Control nodes of your UI. If you want to be able to "touch" the UI with your finger when using hand tracking, using a raycast doesn't work well. So instead, I attached an area to the fingertip. The only problem with this solution is that we have no way of knowing were exactly we collided with the UI's area.
 
 ![VR UI interaction][vr_ui]
 
@@ -33,7 +33,7 @@ Let's start with 2D as the solution is a bit simpler.
 
 #### 2D
 
-You can use the `collide_and_get_contacts` method available on [Shape2D][shape_2D]. 
+You can use the `collide_and_get_contacts` method available on [Shape2D][shape_2D].
 
 To put it in context, let's say you have the `area_shape_entered(area_rid: RID, area: Area2D, area_shape_index: int, local_shape_index: int)` of one area connected to `on_area_shape_entered()`. As you can see in the signal we have the area_shape_index that we're going to use to get the shape from the area doing `var shape = area.shape_owner_get_owner(area_shape_index).shape`.
 
