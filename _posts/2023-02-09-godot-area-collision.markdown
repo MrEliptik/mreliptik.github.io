@@ -20,7 +20,11 @@ First, I'll tell you why I wanted to do that. If you don't care, you can directl
 
 ### The problem
 
-In VR, you have to put your UI somewhere in the 3D world and you use an Area to interact with it, usually using a raycast. The raycast gives you the collision point so you can create a fake mouse event on the Control nodes of your UI. If you want to be able to "touch" the UI with your finger when using hand tracking, using a raycast doesn't work well. So instead, I attached an area to the fingertip. The only problem with this solution is that we have no way of knowing were exactly we collided with the UI's area. Well, of course there's a solution but what I mean is it's not available straight in the Area node. Enough talking, let's jump to the solution!
+In VR, you have to put your UI somewhere in the 3D world and you use an Area to interact with it, usually using a raycast. The raycast gives you the collision point so you can create a fake mouse event on the Control nodes of your UI. If you want to be able to "touch" the UI with your finger when using hand tracking, using a raycast doesn't work well. So instead, I attached an area to the fingertip. The only problem with this solution is that we have no way of knowing were exactly we collided with the UI's area. 
+
+![VR UI interaction][vr_ui]
+
+Well, of course there's a solution but what I mean is it's not available straight in the Area node. Enough talking, let's jump to the solution!
 
 
 ### The solution
@@ -71,4 +75,5 @@ In my case, I simply calculate the average point between the collision points to
 
 Byyye ;)
 
+[vr_ui]: /assets/images/godot_area_collision/vr_ui.png
 [shape_2D]: https://docs.godotengine.org/en/stable/classes/class_shape2d.html
