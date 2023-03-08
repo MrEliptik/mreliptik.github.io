@@ -8,7 +8,7 @@ tag:
 - gamedev
 category: blog
 author: mreliptik
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: Let's talk about a common mistake gamedevs make
 ---
 
