@@ -1,7 +1,7 @@
 ---
 title: "Most gamedevs make THIS mistake"
 layout: post
-date: 2023-03-04 08:00
+date: 2023-03-08 08:00
 image: /assets/images/gamedev_mistake.jpg
 headerImage: true
 tag:
@@ -18,6 +18,8 @@ I want to talk about creating features because they’re technically interesting
 
 That’s a problem lots of gamedev will face, but most won't understand it. They’ll work on a game and wonder why people are not interested.
 
+![Chunk loading system][chunk_loading]
+
 > Yes, your open world chunk streaming system is cool. Yes, your realistic dismemberment system is cool. Yes, your clever algorithm to automatically generate terrain and foliage is cool. But, is your game fun or even interesting?
 
 The reality is that players don’t care about your code, and they also don’t care about how complicated your system was to create. They care about the experience.
@@ -32,8 +34,13 @@ The first solution is to understand what you want. Maybe you got into gamedev be
 
 The other solution is to “grow out” of the technical phase. If what you want is to make games that people enjoy, you need to understand that game design is probably more important than the technical aspect. In my opinion game design is harder than code because it’s less straight forward, not even talking about the fact that finding good resources on the subject is probably harder. If you go on youtube, you’ll find tons of tutorials on how to do X or Y in Unity, Unreal, Godot, etc.. Most of the beginner tutorials are teaching you how to make a *working* platformer or a top down shooter, but they don’t teach you how to make it **good**. There’s nothing wrong with it but it can be hard for beginners to understand why their game is not fun when they’re "technically" doing everything correctly. Yes, their code is great, but not their game design.
 
+![Dire decks by kindanice][dire_decks]
+
 I’ve been a victim of this for a long time, and I think I’ll always be interested by the technical aspect and sometimes a bit too much. Knowing how things are made and finding a clever solution to a complex problem is very rewarding, but it should be one part of the whole work. When creating features, we should think about the impact on the player first. Of course, I’m not talking about tools. You can make tools to speed up your workflow, but you shouldn’t get caught in that either. It’s easy to spend hours or even days working on tools for a feature that will never be used because it’s not interesting for the player.
 
 Personally, I’m trying to think more about game design instead of thinking about mechanics that are cool to code. I’m trying to understand what makes a good mechanic for the player. How can I create things to make the experience better? How can I play with the value for the player to feel something when playing the game? How can I make the player feel a certain emotion?
 
 > It’s less about the code and systems and more about the feeling and experience the player will have.
+
+[chunk_loading]: /assets/images/gamedevs_mistake/chunk.gif
+[dire_decks]: /assets/images/gamedevs_mistake/dire_decks.gif
