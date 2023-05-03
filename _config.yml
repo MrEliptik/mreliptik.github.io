@@ -35,8 +35,8 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mreliptik_
-instagram: _mreliptik
+twitter: mreliptik
+instagram: mreliptik
 linkedin: victormeunier73
 github: MrEliptik
 email: victormeunier.dev@gmail.com
@@ -46,8 +46,8 @@ authors:
     name: MrEliptik
     bio: Full-time indie game developer using Godot!
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/profile.png
+    twitter: mreliptik
 #  jamesfoster:
 #    name: James Foster
 #    bio: A Man who develops software with coffee
