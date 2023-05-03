@@ -14,7 +14,7 @@ layout: page
 
 <p>If you're interested to work with me, both in gamedev or for YouTube, send me an email at victormeunier.dev@gmail.com</p>
 
-<p>You can now support my work through <a href="patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc...</p>
+<p>You can now support my work through <a href="https://patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc...</p>
 
 <h2>Skills</h2>
 
