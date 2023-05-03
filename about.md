@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi, I'm Victor, a full time indie game developer!</p>
 
-<p>I've been using <a href="https://godotengine.org/">Godot</a> for 3 years now and I released my first game Dashpong in October, 2022.</p>
+<p>I've been using <a href="https://godotengine.org/">Godot</a> 2019 and I released my first game Dashpong in October, 2022.</p>
 
 <p>I do YouTube videos about gamedev and games I create on <a href="https://www.youtube.com/@MrEliptik">this channel</a> and I also have <a href="https://www.youtube.com/@mrelipteach">one</a> dedicated to Godot.</p>
 
@@ -14,10 +14,12 @@ layout: page
 
 <p>If you're interested to work with me, both in gamedev or for YouTube, send me an email at victormeunier.dev@gmail.com</p>
 
+<p>You can now support my work through <a href="patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc...</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Programming (embedded & desktop)</li>
 	<li>Gamedev with Godot</li>
 	<li>Writing and video editing</li>
 	<li>Basic 3D modeling</li>
@@ -27,6 +29,7 @@ layout: page
 
 <ul>
 	<li><a href="https://store.steampowered.com/app/1729250/Dashpong/">Dashpong (my first commercial release)</a></li>
+	<li><a href="https://www.udemy.com/course/learn-how-to-make-a-game-juicy-in-godot-4/?referralCode=1652C74B848551E05DAE">Godot 4 course about game juice</a></li>
 	<li><a href="https://mreliptik.itch.io/">itch.io page (game jams, small games)</a></li>
 	<li><a href="https://github.com/MrEliptik/godot_experiments">Godot experiments</a></li>
 	<li><a href="https://www.youtube.com/@MrEliptik">Gamedev channel</a></li>
