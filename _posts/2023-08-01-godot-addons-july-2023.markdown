@@ -2,7 +2,7 @@
 title: "10 awesome addons for Godot 4"
 layout: post
 date: 2023-08-01 08:00
-image: /assets/images/gamedev_mistake.jpg
+image: /assets/images/godot_addons_july_2023/godot_addons_july_2023_cover.png
 headerImage: true
 tag:
 - gamedev
