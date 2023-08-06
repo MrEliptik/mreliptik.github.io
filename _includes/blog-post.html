@@ -1,6 +1,11 @@
 <div class="item {% if post.star %}star{% endif %}">
     <a class="url" href="{{ site.url }}{{ post.url }}">
-        <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-        <h3 class="title">{{ post.title }}</h3>
+        <img class="title-image" src="{{ post.image }}" alt="{{ post.title }}">
+        <!--<aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>-->
+        <div style="display: flex; align-items: center; justify-content: space-around;">
+            <h3 style="display: inline-block;" class="title">{{ post.title }}</h3>
+            <!--<aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>-->
+            <time style="margin: 0;" datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time>
+        </div>
     </a>
 </div>
