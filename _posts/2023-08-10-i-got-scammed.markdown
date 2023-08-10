@@ -59,15 +59,15 @@ Realistically, I don't know what can happen. If you confront the thief, they're 
 
 ![stolen image][stolen]
 
-*Stolen image from Verokina*
+*Stolen image from Veronika*
 
-![Verokina's profile on Behance, a real artist][real_artist]
+![Veronika's profile on Behance, a real artist][real_artist]
 
-*[Verokina's profile on Behance](https://www.behance.net/veronikaaoki), the real artist*
+*[Veronika's profile on Behance](https://www.behance.net/veronikaaoki), the real artist*
 
-![DM exchange with Verokina][veronika_dm]
+![DM exchange with Veronika][veronika_dm]
 
-*DM exchange with Verokina*
+*DM exchange with Veronika*
 
 Remember when I talked about a website mockup? Well, this was easy to reverse image search and I easily found the design on a template website. Surely it was their design, yes, no doubt. This was the case for other artworks and even NFTs clearly not made by the person sending me DMs..
 
