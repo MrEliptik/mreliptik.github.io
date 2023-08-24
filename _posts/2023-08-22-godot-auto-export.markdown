@@ -47,6 +47,8 @@ The command is slightly different for Godot 4 👇
 
 `--export` is now `--export-release` and most importantly allows using `--headless` to run the export without launching the Godot editor which should be a bit faster and allows exporting on platforms that don’t have graphics card. Read more on the [documentation page](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html#exporting).
 
+> ⚠ Be careful there's a bug at the time of writing that stripes ShaderMaterial when ussing --headless. See the [issue on GitHub](https://github.com/godotengine/godot/issues/66842).
+
 ### Getting the build number
 
 ![project settings][project_settings]
@@ -166,9 +168,13 @@ Once you have the scripts, you can finally call steam_cmd to upload your content
 
 My python script simply zips the builds, move them to both content folder (linux and windows), upload to steam and then delete the zips. You don’t have to zip them though, it’s just what I did in my build process.
 
+> Note this will NOT push the change to public unfortunately. Steam doesn't allow automatic publishing on the default branch.. You still have to go to Steamworks and publish manually. It works for other branches though.
+
 ## Final words
 
 I hope this showed you that building and uploading to itch and steam is quite easy. Of course, the script I wrote is suited for what I need so you’ll have to adapt it to your liking. Using python makes it quite easy I believe as it’s pretty close to GDScript. You can also extend the functionalities to support other stores or even use github action to build the game for you. For a client project, I setup automatic upload and release creation on GitHub, which was easy to do using their [command line program](https://cli.github.com/).
+
+Exporting and uploading multiple games on multiple platforms can be super tedious, and I honestly regret waiting so long to put this script in place. I've been using it for a few weeks and it's been amazing. I highly recommend taking the time to do it. It will make your release process much easier but also with less errors!
 
 If you have any suggestion or corrections, please let me know in the comments 👇
 
