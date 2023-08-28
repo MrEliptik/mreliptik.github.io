@@ -166,7 +166,9 @@ Once you have the scripts, you can finally call steam_cmd to upload your content
 
 `steamcmd +login STEAM_USERNAME STEAM_PASSWORD, +run_app_build_http APP_SCRIPT_PATH +quit`
 
-My python script simply zips the builds, move them to both content folder (linux and windows), upload to steam and then delete the zips. You don’t have to zip them though, it’s just what I did in my build process.
+My python script simply copy the files to both content folder (linux and windows), upload to steam and then delete the files.
+
+> ⚠ Don't put a zip in the content folder for upload as Steam will not dezip it when installing on the client computer! You can manually upload zips through the Steamworks website but not when using SteamCMD. 
 
 > Note this will NOT push the change to public unfortunately. Steam doesn't allow automatic publishing on the default branch.. You still have to go to Steamworks and publish manually. It works for other branches though.
 
