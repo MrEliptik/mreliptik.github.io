@@ -1,7 +1,7 @@
 ---
 title: "Automatic Godot game export and upload to Steam and Itch"
 layout: post
-date: 2023-08-10 08:00
+date: 2023-08-22 08:00
 image: /assets/images/godot_auto_export/godot_auto_export.png
 headerImage: true
 tag:
