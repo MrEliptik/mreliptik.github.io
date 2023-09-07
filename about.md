@@ -8,13 +8,17 @@ layout: page
 
 <p>I've been using <a href="https://godotengine.org/">Godot</a> 2019 and I released my first game Dashpong in October, 2022.</p>
 
-<p>I do YouTube videos about gamedev and games I create on <a href="https://www.youtube.com/@MrEliptik">this channel</a> and I also have <a href="https://www.youtube.com/@mrelipteach">one</a> dedicated to Godot.</p>
+<p>I do YouTube videos about gamedev and games I create on <a href="https://www.youtube.com/@MrEliptik">this channel</a> and I also have  dedicated to Godot.</p>
 
 <p>Before Godot, I was a software engineer! I graduated with an embedded software degree in 2019.</p>
 
-<p>If you're interested to work with me, both in gamedev or for YouTube, send me an email at victormeunier.dev@gmail.com</p>
+<h2>Work with me</h2>
 
-<p>You can now support my work through <a href="https://patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc...</p>
+<p>If you're interested to work with me, both in gamedev or for YouTube, send me an email at victormeunier.dev@gmail.com. You can also directly book calls or ask for a prototype on <a href="https://ko-fi.com/mreliptik/commissions">Kofi</a></p>
+
+<p>You can now support my work through <a href="https://patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc... But if you want one time donation, head over to Kofi!</p>
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'H2H23ODS7');kofiwidget2.draw();</script> 
 
 <h2>Skills</h2>
 
