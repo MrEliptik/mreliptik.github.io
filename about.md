@@ -46,6 +46,7 @@ Sometimes, I come across cool stuff on the internet and I don't want to keep it 
 
 <h3>Gamedev<h3>
 <ul>
+	<li><a href="https://a327ex.com/posts/snkrx_log/">SNKRX's post-release log - a327ex</a></li>
 	<li><a href="http://jeff-vogel.blogspot.com/2019/08/why-all-of-our-games-look-like-crap.html">Why all of our games look like crap - Jeff Vogel</a></li>
 	<li><a href="https://www.blobfish.dev/69-gamedev-ideas/">68 gamedev ideas - Blobfish</a></li>
 </ul>
