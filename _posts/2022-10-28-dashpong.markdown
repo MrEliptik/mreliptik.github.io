@@ -1,0 +1,33 @@
+---
+title: "Dashpong"
+layout: post
+date: 2022-10-28 09:00
+tag: game
+image: /assets/images/dashpong/capsule_main.png
+headerImage: true
+projects: true
+hidden: false
+description: "Dashpong is my first game. A local multiplayer game where you dash paddles and score against your opponent."
+category: project
+author: mreliptik
+externalLink: false
+---
+
+Dashpong is a high energy arcade local multiplayer game where you dash all around the maps at full speed. Create paddles to defend your goal and shoot the ball at your opponent to score. Enjoy the game up to 4 players in local multiplayer.
+
+Get the [presskit here](https://mreliptik.notion.site/Dashpong-presskit-142fcdc36ab880f8bec4ed28354ee868).
+
+![Defend your goal](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/defense.gif?t=1736185002)
+
+![Up to 4 players](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/4_players.gif?t=1736185002)
+
+Watch the devlogs on Youtube 📹
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=DIxyVwh_INgLHjr4&amp;list=PLRs8fbx1hRBFJpKfNpeQL8x0dEUBU63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe src="https://store.steampowered.com/widget/1729250/" frameborder="0" width="600" height="190"></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1147346?linkback=true&amp;dark=true" width="600" height="167"><a href="https://mreliptik.itch.io/dashpong">Dashpong by MrEliptik</a></iframe>
+
+Coming to the Nintendo Switch soon 😉

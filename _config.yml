@@ -1,6 +1,6 @@
 # main text of home
 title: MrEliptik (Victor Meunier)
-bio: Full-time indie game developer using Godot!
+bio: Full-time indie game developer using Godot
 
 # twitter summary info
 description: MrEliptik's personal website about gamedev & stuff
@@ -50,7 +50,7 @@ all-links: mreliptik #https://bento.me/
 authors:
   mreliptik:
     name: MrEliptik
-    bio: Full-time indie game developer using Godot!
+    bio: Full-time indie game developer using Godot
     external-image: false
     picture: assets/images/profile.png
     twitter: mreliptik
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
