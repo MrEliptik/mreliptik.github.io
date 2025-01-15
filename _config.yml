@@ -1,6 +1,6 @@
 # main text of home
 title: MrEliptik (Victor Meunier)
-bio: A full-time indie game developer using Godot!
+bio: Full-time indie game developer using Godot!
 
 # twitter summary info
 description: MrEliptik's personal website about gamedev & stuff
@@ -35,11 +35,17 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
+youtube: MrEliptik
+twitch: mreliptik
+bluesky: mreliptik
 twitter: mreliptik
-instagram: mreliptik
-linkedin: victormeunier73
+threads: mreliptik
+tiktok: mreliptik
+#instagram: mreliptik
+#linkedin: victormeunier73
 github: MrEliptik
 email: victormeunier.dev@gmail.com
+all-links: mreliptik #https://bento.me/
 
 authors:
   mreliptik:
