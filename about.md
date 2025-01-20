@@ -22,29 +22,25 @@ layout: page
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#36d1bc', 'H2H23ODS7');kofiwidget2.draw();</script> 
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>Programming (embedded & desktop)</li>
-	<li>Gamedev with Godot</li>
-	<li>Writing and video editing</li>
-	<li>Basic 3D modeling</li>
-</ul>
 
 <h2>Projects</h2>
 
-<ul>
+See my [commercial projects here](https://mreliptik.dev/projects/).
+
+<!-- <ul>
 	<li><a href="https://store.steampowered.com/app/1729250/Dashpong/">Dashpong (my first commercial release)</a></li>
 	<li><a href="https://www.udemy.com/course/learn-how-to-make-a-game-juicy-in-godot-4/?referralCode=1652C74B848551E05DAE">Godot 4 course about game juice</a></li>
 	<li><a href="https://mreliptik.itch.io/">itch.io page (game jams, small games)</a></li>
 	<li><a href="https://github.com/MrEliptik/godot_experiments">Godot experiments</a></li>
 	<li><a href="https://www.youtube.com/@MrEliptik">Gamedev channel</a></li>
 	<li><a href="https://www.youtube.com/@mrelipteach">Godot channel</a></li>
-</ul>
+</ul> -->
 
 <h2>Cool stuff</h2>
 
 Sometimes, I come across cool stuff on the internet and I don't want to keep it for myself (how generous!), so here's a list of interesting/cool stuff!
+
+I also share monthly recommendations [on my Patreon](https://www.patreon.com/collection/414948) (for free).
 
 <h3>Gamedev<h3>
 <ul>
