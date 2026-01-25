@@ -1,11 +1,23 @@
 <div class="item {% if post.star %}star{% endif %}">
-    <a class="url" href="{{ site.url }}{{ post.url }}">
-        <img class="title-image" src="{{ post.image }}" alt="{{ post.title }}">
-        <!--<aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>-->
-        <div style="display: flex; align-items: center; justify-content: space-around;">
-            <h3 style="display: inline-block;" class="title">{{ post.title }}</h3>
-            <!--<aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>-->
-            <time style="margin: 0;" datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time>
-        </div>
-    </a>
+  <a class="url" href="{{ site.url }}{{ post.url }}">
+    <div class="card">
+      <img class="card-image" src="{{ post.image }}" alt="{{ post.title }}">
+
+      <div class="card-content">
+        <h3 class="title">{{ post.title }}</h3>
+
+        <time class="date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+          {{ post.date | date: "%b %d %Y" }}
+        </time>
+
+        {% if post.tag %}
+          <div class="tags">
+            {% for tag in post.tag %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </a>
 </div>

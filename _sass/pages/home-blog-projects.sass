@@ -1,74 +1,95 @@
 .home,
 .blog,
 .projects
-    margin-top: 125px
+  margin-top: 75px
 
-    > .list
-        border-top: 1px solid $epsilon
-        margin-top: 30px
-        padding-top: 40px
-        position: relative
+  > .list
+    margin-top: 30px
+    padding-top: 10px
 
-        &:before
-            display: block
-            content: " "
-            width: 7px
-            height: 7px
-            border: $epsilon 1px solid
-            position: absolute
-            top: -5px
-            left: 50%
-            margin-left: -5px
-            background: $omega
-            box-shadow: $omega 0 0 0 5px
-            border-radius: 3px
-
-.home > .list,
-.blog > .list,
-.projects > .list
     > .item
-        display: block
-        width: 95%
-        margin: 0 auto
+      width: 95%
+      margin: 0 auto 8px auto
 
-    > .item > .url
-        width: 100%
+      > .url
         display: block
-        padding: 20px 0
         text-decoration: none
+        color: inherit
 
-    > .item > .url > .title
-        margin: 0
-        width: 75%
-        font-weight: 500
-        transition: all ease-in-out .2s
+        .card
+          display: flex
+          align-items: stretch
+          gap: 20px
+          padding: 16px
+          border-radius: 14px
+          transition: box-shadow 0.2s ease, transform 0.2s ease
 
-    > .item:hover > .url > .title
+          &:hover
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12)
+            transform: translateY(-2px)
+            background: $blog-bg
+
+        .card-image
+          width: 200px
+          height: 110px
+          object-fit: cover
+          border-radius: 10px
+          flex-shrink: 0
+          display: block
+
+        .card-content
+          display: flex
+          flex-direction: column
+          justify-content: flex-start
+          align-items: flex-start
+          gap: 6px
+          height: 100%
+          min-width: 0
+          flex: 1
+
+          .title
+            margin: 0
+            font-size: 1.55rem
+            font-weight: 600
+            line-height: 1.25
+            color: $alpha
+            display: -webkit-box
+            -webkit-line-clamp: 2
+            -webkit-box-orient: vertical
+            overflow: hidden
+
+          .date
+            font-size: 1.2rem
+            color: $gama
+            margin: 0
+
+          .tags
+            display: flex
+            flex-wrap: wrap
+            gap: 6px
+            margin-top: 2px
+
+            .tag
+              font-size: 1.1rem
+              padding: 0.15rem 0.5rem
+              border-radius: 999px
+              background: #f0f0f0
+              color: $alpha
+              line-height: 1
+
+      &:hover .title
         color: $delta
 
-    // maybe we can't nest html5 elements
-    // can you help me?
-    aside
-        position: relative
-        top: 2px
-        margin: 0
-        width: 25%
-        float: right
-        font-weight: 300
-        color: $gama
-        text-align: right
-        transition: all ease-in-out .2s
 
-    .item:hover .url aside
-        color: $alpha
+// Mobile
+@media (max-width: 600px)
+  .home,
+  .blog,
+  .projects
+    > .list > .item > .url > .card
+      flex-direction: column
+      align-items: stretch
 
-.blog > .list > .item > .url,
-.projects > .list > .item > .url
-    > .title
-        display: inline
-
-    > .emoji
-        display: inline
-        position: relative
-        top: -4px
-        margin-right: 10px
+      .card-image
+        width: 100%
+        height: auto

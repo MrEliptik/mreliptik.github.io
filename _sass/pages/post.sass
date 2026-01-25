@@ -1,36 +1,8 @@
 .post
     margin-top: 125px
 
-    > .title
-        text-align: center
-        margin-bottom: 3rem
-
-    > .date,
-    > .post-tags
-        color: $gama
-        font-weight: $thin-font
-        font-size: 1.4rem
-        text-transform: uppercase
-        text-align: center
-        display: block
-        margin-bottom: 6rem
-        letter-spacing: 1px
-        -webkit-font-smoothing: antialiased
-        text-rendering: optimizeLegibility
-
     > .date
         margin-bottom: 2rem
-
-    > .post-tags > .item
-        padding: 2px 8px
-        border-radius: 3px
-        font-size: 1.1rem
-        background: $epsilon
-        color: $alpha
-        letter-spacing: 1px
-        margin: 3px 1px
-        text-decoration: none
-        display: inline-block
 
     // general style
     > h2,
@@ -42,7 +14,7 @@
             text-decoration: none
 
     > .title-image
-        max-height: 120px
+        width: 100%
         display: block
         margin: 0 auto
 
@@ -58,3 +30,58 @@
             margin: 1em 0
         .next
             text-align: right
+
+    .post-header
+        margin-bottom: 2rem
+
+    .title-row
+        display: flex
+        align-items: baseline
+        justify-content: space-between
+        flex-wrap: wrap
+        gap: 1rem
+        margin-top: 1rem
+
+    .title
+        margin: 0
+        font-size: 2rem
+        flex: 1 1 auto
+        min-width: 0
+
+    .date
+        font-size: 0.9rem
+        opacity: 0.7
+        white-space: nowrap
+
+    .post-tags
+        margin-top: 0.5rem
+        display: flex
+        flex-wrap: wrap
+        gap: 0.5rem
+        color: $gama
+        font-weight: $thin-font
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        display: block
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $alpha
+        letter-spacing: 1px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline-block
+
+    .item
+        text-decoration: none
+        padding: 0.2rem 0.5rem
+        font-size: 0.8rem
+        border-radius: 999px
+        background: rgba(255,255,255,0.1)
