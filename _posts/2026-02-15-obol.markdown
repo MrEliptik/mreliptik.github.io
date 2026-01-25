@@ -1,0 +1,62 @@
+---
+title: "O.B.O.L"
+layout: post
+date: 2026-01-25 09:00
+tag: game
+image: /assets/images/obol/main_capsule.jpg
+headerImage: true
+projects: true
+project_type: game
+status: In development
+hidden: false
+description: "O.B.O.L is a game about a coin flip that will determine your life."
+category: project
+author: mreliptik
+externalLink: false
+---
+
+Play a high stake game of head or tails against a mysterious opponent, trapped under the ocean in a claustrophobic, eldritch & Lovecraftian horror atmosphere.
+
+- Coming to Steam & [Itch](https://mreliptik.itch.io/charons-obol) in Q3 2026
+- **[Presskit](https://mreliptik.notion.site/Charon-s-Obol-presskit-248fcdc36ab880ba9139c8cc55a9c737)**
+- Made in collab with **[Woland](https://herrwoland.itch.io/) (3D artist & Game designer)**
+
+
+### O.B.O.L is a game about a coin flip that will determine your life. 
+<video
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/269de90e76c2918bdd71f989861527d6.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### You're stuck in a claustrophobic rusty cabin under the ocean with a mysterious old man, playing a cursed coin game to change your fate. 
+<video
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/c19a87c371b8d235fe5b612ab562b323.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Be careful tho, not everything is friendly in this underwater trap you are stuck in.
+<video
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/166a01fbb411cf49a62a6f132611787d.webm?t=1761163200" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### The corporate has sent their man to check if you qualify for the rescue operation.
+<video
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/3b904d0d20bb90a3cc6bafacc5b1d875.mp4?t=1761163200" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Discover the story and unlock multiple endings and over all, try not to lose your sanity over the cursed metal!
+<video
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/be38ed431a5445e5bc3f0e2187553253.webm?t=1761163200" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+![roadmap](https://img.itch.zone/aW1nLzIyOTIzNzE1LnBuZw==/original/SLfVFx.png)
+
+---

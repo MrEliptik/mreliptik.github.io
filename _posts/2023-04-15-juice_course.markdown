@@ -6,6 +6,8 @@ tag: course
 image: /assets/images/juice_course/juice_logo.png
 headerImage: true
 projects: true
+project_type: product
+status: Released
 hidden: false
 description: "A course focused on making everything juicy in a game using a breakout clone as a base game."
 category: project
@@ -36,4 +38,4 @@ A course focused on making everything juicy in a game using a breakout clone as 
 [![Get it on Udemy](/assets/images/juice_course/juice_cta_website.png)](https://www.udemy.com/course/learn-how-to-make-a-game-juicy-in-godot-4/?referralCode=1652C74B848551E05DAE)
 
 or on Itch 👇
-<iframe frameborder="0" src="https://itch.io/embed/2015888?linkback=true&amp;dark=true" width="600" height="167"><a href="https://mreliptik.itch.io/learn-how-to-make-juicy-games-with-godot-4">Learn how to make juicy games with Godot 4 by MrEliptik</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2015888?linkback=true&amp;border_width=0&amp;bg_color=ffffff&amp;fg_color=191919&amp;link_color=FFDC02&amp;border_color=bab5b8" width="550" height="165"><a href="https://mreliptik.itch.io/learn-how-to-make-juicy-games-with-godot-4">Learn how to make juicy games with Godot 4 by MrEliptik</a></iframe>

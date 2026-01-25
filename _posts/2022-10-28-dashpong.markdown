@@ -6,6 +6,8 @@ tag: game
 image: /assets/images/dashpong/capsule_main.png
 headerImage: true
 projects: true
+project_type: game
+status: Released
 hidden: false
 description: "Dashpong is my first game. A local multiplayer game where you dash paddles and score against your opponent."
 category: project
@@ -15,11 +17,58 @@ externalLink: false
 
 Dashpong is a high energy arcade local multiplayer game where you dash all around the maps at full speed. Create paddles to defend your goal and shoot the ball at your opponent to score. Enjoy the game up to 4 players in local multiplayer.
 
-Get the [presskit here](https://mreliptik.notion.site/Dashpong-presskit-142fcdc36ab880f8bec4ed28354ee868).
+- Released on October 28, 2022 on [Steam](https://s.team/a/2977820) & [Itch](https://mreliptik.itch.io/hyperslice)
+- **[Presskit](https://mreliptik.notion.site/Dashpong-presskit-142fcdc36ab880f8bec4ed28354ee868)**
 
-![Defend your goal](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/defense.gif?t=1736185002)
 
-![Up to 4 players](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/4_players.gif?t=1736185002)
+### Create paddles at the last moment to protect your goal!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/0a259da360cc7eb62739ff3c45a821e0.webm?t=1769010699" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Use the environment to your advantage!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/8374a8789665c1ef28dd5b90c96edf81.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Dashing to create paddle can save you, but be careful, it can be turned against you!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/d5e7b592ce41f5ede26653d6166b3e54.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Up to 4 players: More people, more chaos, more fun!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/e1f59a0f54555a950ea53f8d20ce1fca.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Small goals, weird angles, obstacles, all kinds of maps!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/0808d466ae09e5540a2bf5121e8d1208.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Many special modes: Rewind, portals, gravity wells, invisible paddles, and many, many more!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/b7a8d9526c099c04678535dc14b813a3.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
+
+### Choose your team colors!
+<video
+  src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1729250/extras/21e2d28041addfe6a943e2fbbc0dddfb.webm" controls autoplay loop muted playsinline
+  style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
 
 Watch the devlogs on Youtube 📹
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=DIxyVwh_INgLHjr4&amp;list=PLRs8fbx1hRBFJpKfNpeQL8x0dEUBU63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,6 +77,6 @@ Watch the devlogs on Youtube 📹
 
 <iframe src="https://store.steampowered.com/widget/1729250/" frameborder="0" width="600" height="190"></iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/1147346?linkback=true&amp;dark=true" width="600" height="167"><a href="https://mreliptik.itch.io/dashpong">Dashpong by MrEliptik</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1147346?linkback=true&amp;border_width=0&amp;bg_color=0c0c0c&amp;fg_color=fefefe&amp;link_color=ffde11&amp;border_color=717171" width="550" height="165"><a href="https://mreliptik.itch.io/dashpong">Dashpong by MrEliptik</a></iframe>
 
-Coming to the Nintendo Switch soon 😉
+Maybe coming to the Nintendo Switch 😉

@@ -1,0 +1,42 @@
+{% assign p = include.post %}
+
+<a class="project-card {% if p.star %}star{% endif %}"
+    href="{% if p.externalLink %}{{ p.externalLink }}{% else %}{{ site.url }}{{ p.url }}{% endif %}">
+
+    <div class="thumb"
+        style="background-image: url('{{ p.image }}');">
+    </div>
+
+    <div class="info">
+        <div class="title">
+            <h3>{{ p.title }}</h3>
+
+            <time datetime="{{ p.date | date: "%Y-%m-%d" }}">
+            {% if p.status == "Released" %}
+                {{ p.date | date: "%B %d, %Y" }}
+            {% else %}
+                {{ p.date | date: "%Y" }}
+            {% endif %}
+            </time>
+        </div>
+
+        {% if p.status %}
+            <span class="tag {{ p.status | slugify }}">{{ p.status }}</span>
+        {% endif %}
+    </div>
+
+    <!--
+    <div class="info">
+        <div class="title">
+            <h3>{{ p.title }}</h3>
+            <time datetime="{{ p.date | date: "%Y-%m-%d" }}">
+            {{ p.date | date: "%Y" }}
+            </time>
+        </div>
+
+        {% if p.status %}
+            <span class="tag {{ p.status | slugify }}">{{ p.status }}</span>
+        {% endif %}
+    </div>
+    -->
+</a>
