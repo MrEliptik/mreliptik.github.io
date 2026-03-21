@@ -1,12 +1,13 @@
 ---
 title: "Are focus and momentum all you need?"
 layout: post
-date: 2026-04-19 08:00
+date: 2026-03-19 08:00
 image: /assets/images/focus_momentum.png
 headerImage: true
 tag:
 - gamedev
-- business
+- productivity
+- mental health
 category: blog
 author: mreliptik
 hidden: false # don't count this post in blog pagination
