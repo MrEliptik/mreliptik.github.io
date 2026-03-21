@@ -2,7 +2,7 @@
 title: "Are focus and momentum all you need?"
 layout: post
 date: 2026-03-19 08:00
-image: /assets/images/focus_momentum.png
+image: /assets/images/focus_momentum.jpg
 headerImage: true
 tag:
 - gamedev
