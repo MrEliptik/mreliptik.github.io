@@ -1,5 +1,5 @@
 ---
-title: "Escpaing tutorial hell"
+title: "Escaping tutorial hell"
 layout: post
 date: 2022-10-22 08:00
 image: /assets/images/tutorial_hell.jpg
