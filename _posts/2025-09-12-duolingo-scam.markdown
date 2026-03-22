@@ -14,7 +14,7 @@ description: I received a fake YouTube sponsorship from "Duolingo", here's how I
 
 I received a fake YouTube sponsorship from "Duolingo", here's how I spotted it was not real 👇
 
-![email full](/assets/images/duolingo_scam/duolingo_scam.jpg)
+![email full](/assets/images/duolingo_scam/email_full.jpg)
 
 The first weird thing is the email address. It's from "Duolingo" but the address is dfr.m@sfr.fr. It's not related to duolingo in any way and if you're French you know: [SFR](https://www.sfr.fr/) is local internet provider, so it smells very fishy. The email is clean, and there's an "—". I suspect it's written with ChatGPT.
 
@@ -42,6 +42,6 @@ I receive tons of similar emails for YT sponsorship, my games or even old apps I
 
 *EDIT: Bog made a video about a similar scame. While it's also for Duolingo, the process is slightly different but has the same idea.*
 
-![bog video thumbnail](/assets/images/duolingo_scam/bog_thumb.jpg)
+![bog video thumbnail](/assets/images/duolingo_scam/bog_thumb.png)
 
 Stay safe ✌
