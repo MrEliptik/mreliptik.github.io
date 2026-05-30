@@ -17,8 +17,8 @@ externalLink: false
 
 Play a high stake game of head or tails against a mysterious opponent, trapped under the ocean in a claustrophobic, eldritch & Lovecraftian horror atmosphere.
 
-- Coming to Steam & [Itch](https://mreliptik.itch.io/charons-obol) in Q3 2026
-- **[Presskit](https://mreliptik.notion.site/Charon-s-Obol-presskit-248fcdc36ab880ba9139c8cc55a9c737)**
+- Coming to [Steam](https://store.steampowered.com/app/4054050/OBOL/) & [Itch](https://mreliptik.itch.io/obol) in Q3 2026
+- 📰 **[Presskit](https://mreliptik.notion.site/O-B-O-L-presskit-361fcdc36ab880f8b7c8f5f54011847d)**
 - Made in collab with **[Woland](https://herrwoland.itch.io/) (3D artist & Game designer)**
 
 

@@ -18,7 +18,7 @@ externalLink: false
 Fast paced action arena roguelite where you defeat waves of enemies, hazards and dangerous threats using only your dash as a weapon. Don't get fooled, your dash is a powerful weapon. Upgrade your ship and buy unique abilities to chose your own playstyle and turn your ship into a killing machine
 
 - Released on January 21, 2026 on [Steam](https://s.team/a/2977820) & [Itch](https://mreliptik.itch.io/hyperslice)
-- **[Presskit](https://mreliptik.notion.site/Hyperslice-presskit-13efcdc36ab8808cb520d959004e751b)**
+- 📰 **[Presskit](https://mreliptik.notion.site/Hyperslice-presskit-13efcdc36ab8808cb520d959004e751b)**
 - 🎵 Music made by [Trevron](https://trevron.dev/)
 
 ### Slice through enemies & use them as projectiles
