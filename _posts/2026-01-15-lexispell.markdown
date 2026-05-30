@@ -1,7 +1,7 @@
 ---
 title: "Lexispell"
 layout: post
-date: 2026-01-25 09:00
+date: 2026-05-29 14:30
 tag: game
 image: /assets/images/lexispell/main_capsule.jpg
 headerImage: true
@@ -23,7 +23,7 @@ externalLink: false
 
 Strategy meets physics, in this roguelike word game, where you combine spelling with cool upgrades to score high. Spell, m€rge, upgr@de, coz¥, combinati*ns, high$core, hippopotomonstrosesquipedaliophobia!
 
-- Released on May 29, 2026 on [Steam](https://store.steampowered.com/app/4053960/Lexispell/) & Itch in Q1 2026
+- Released on May 29, 2026 on [Steam](https://store.steampowered.com/app/4053960/Lexispell/) & [Itch](https://mreliptik.itch.io/lexispell)
 - 📰 **[Presskit](https://mreliptik.notion.site/Lexispell-presskit-291fcdc36ab88004816edcbe4b3637b0)**
 - 🎵 Music made by [Trevron](https://trevron.dev/)
 - 🎨 Capsules art by [BabanIllustration](https://babanillustration.carrd.co/)
