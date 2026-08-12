@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi, I'm MrEliptik (Victor), a full time indie game developer!</p>
 
-<p>Before discovering Godot in 2019 I was a software engineer in embedded computing. In 2020, I quit my job and started doing freelance and more gamedev and in 2022, I release <a href="">Dashpong</a>, my first commercial game!</p>. Checkout all my <a href="https://store.steampowered.com/developer/mreliptik">Steam games here</a>.
+<p>Before discovering Godot in 2019 I was a software engineer in embedded computing. In 2020, I quit my job and started doing freelance and more gamedev and in 2022, I release <a href="">Dashpong</a>, my first commercial game!. Checkout all my <a href="https://store.steampowered.com/developer/mreliptik">Steam games here</a>.</p>
 
 <p>I'm now a full time indie gamedev, but I also do YouTube videos about gamedev on <a href="https://www.youtube.com/@MrEliptik">MrEliptik</a> and dedicated Godot videos on <a href="https://www.youtube.com/@mrelipteach">MrElipteach</a>.</p>
 
