@@ -16,13 +16,19 @@ layout: page
 <h2>Support my work</h2>
 <p>You can now support my work through <a href="https://patreon.com/MrEliptik">Patreon</a> and get early access to videos, source code for the games I create, voting power, etc... But if you want one time donation, head over to <a href="https://ko-fi.com/mreliptik">Ko-fi</a></p>
 
-<div style="width: 100%;">
-        <div style="width: 50%; height: 100px; float: left; background: green;"> 
-            <a href="https://www.patreon.com/bePatron?u=89061947" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-        </div>
-        <div style="margin-left: 50%; height: 100px; background: blue;"> 
-           	<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#36d1bc', 'H2H23ODS7');kofiwidget2.draw();</script> 
-        </div>
+<div style="width: 100%; display: flex;">
+    <div style="width: 50%; display: flex; justify-content: center;">
+        <a href="https://www.patreon.com/bePatron?u=89061947" data-patreon-widget-type="become-patron-button">Become a member!</a>
+        <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+    </div>
+
+    <div style="width: 50%; display: flex; justify-content: center;">
+        <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+        <script type="text/javascript">
+            kofiwidget2.init('Support me on Ko-fi', '#36d1bc', 'H2H23ODS7');
+            kofiwidget2.draw();
+        </script>
+    </div>
 </div>
 
 <h2>Projects</h2>
