@@ -1,7 +1,7 @@
 ---
 title: "O.B.O.L"
 layout: post
-date: 2026-01-25 09:00
+date: 2026-09-17 14:30
 tag: game
 image: /assets/images/obol/main_capsule.jpg
 headerImage: true
@@ -17,46 +17,44 @@ externalLink: false
 
 Play a high stake game of head or tails against a mysterious opponent, trapped under the ocean in a claustrophobic, eldritch & Lovecraftian horror atmosphere.
 
-- Coming to [Steam](https://store.steampowered.com/app/4054050/OBOL/) & [Itch](https://mreliptik.itch.io/obol) in Q3 2026
-- 📰 **[Presskit](https://mreliptik.notion.site/O-B-O-L-presskit-361fcdc36ab880f8b7c8f5f54011847d)**
+- Coming to [Steam](https://store.steampowered.com/app/4054050/OBOL/) & [Itch](https://mreliptik.itch.io/obol) in** September 17, 2026**
+- 📰 **[Presskit](https://mreliptik.dev/obol-presskit)**
 - Made in collab with **[Woland](https://herrwoland.itch.io/) (3D artist & Game designer)**
 
 
 ### O.B.O.L is a game about a coin flip that will determine your life. 
 <video
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/269de90e76c2918bdd71f989861527d6.webm" controls autoplay loop muted playsinline
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/f40455f9fd03359598183ace0a6b0246.webm" controls autoplay loop muted playsinline
   style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
 
 ### You're stuck in a claustrophobic rusty cabin under the ocean with a mysterious old man, playing a cursed coin game to change your fate. 
 <video
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/c19a87c371b8d235fe5b612ab562b323.webm" controls autoplay loop muted playsinline
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/5e7537c5360406abc048a18757ec679c.webm" controls autoplay loop muted playsinline
   style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
 
 ### Be careful tho, not everything is friendly in this underwater trap you are stuck in.
 <video
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/166a01fbb411cf49a62a6f132611787d.webm?t=1761163200" controls autoplay loop muted playsinline
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/3750582d8122c282e2959e37d0e1a938.webm" controls autoplay loop muted playsinline
   style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
 
 ### The corporate has sent their man to check if you qualify for the rescue operation.
 <video
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/3b904d0d20bb90a3cc6bafacc5b1d875.mp4?t=1761163200" controls autoplay loop muted playsinline
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/a6b8ec186e6b495376fb1e13a04a4940.webm" controls autoplay loop muted playsinline
   style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
 
 ### Discover the story and unlock multiple endings and over all, try not to lose your sanity over the cursed metal!
 <video
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/be38ed431a5445e5bc3f0e2187553253.webm?t=1761163200" controls autoplay loop muted playsinline
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054050/extras/9479115c35b7b334138b2c7fc36e3efe.webm" controls autoplay loop muted playsinline
   style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
-
-![roadmap](https://img.itch.zone/aW1nLzIyOTIzNzE1LnBuZw==/original/SLfVFx.png)
 
 ---
