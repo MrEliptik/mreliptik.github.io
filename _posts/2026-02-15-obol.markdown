@@ -1,13 +1,13 @@
 ---
 title: "O.B.O.L"
 layout: post
-date: 2026-02-15 14:30
+date: 2026-09-17 14:30
 tag: game
 image: /assets/images/obol/main_capsule.jpg
 headerImage: true
 projects: true
 project_type: game
-status: In development
+status: Released
 hidden: false
 description: "O.B.O.L is a game about a coin flip that will determine your life."
 category: project
@@ -17,7 +17,7 @@ externalLink: false
 
 Play a high stake game of head or tails against a mysterious opponent, trapped under the ocean in a claustrophobic, eldritch & Lovecraftian horror atmosphere.
 
-- Coming to [Steam](https://store.steampowered.com/app/4054050/OBOL/) & [Itch](https://mreliptik.itch.io/obol) **September 17, 2026**
+- Released on [Steam](https://store.steampowered.com/app/4054050/OBOL/) & [Itch](https://mreliptik.itch.io/obol) **September 17, 2026**
 - 📰 **[Presskit](https://mreliptik.dev/obol-presskit)**
 - Made in collab with **[Woland](https://herrwoland.itch.io/) (3D artist & Game designer)**
 
